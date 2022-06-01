@@ -62,3 +62,12 @@ background: linear-gradient(to right, #5FC3E4, #E55D87); /* W3C, IE 10+/ Edge, F
     border-color:rgb(17, 46, 98) ;
 }
 
+.play_button  {
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
